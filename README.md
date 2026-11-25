@@ -4,7 +4,7 @@ I’m SleetGit.
 
 I have a keen interest in Embedded Systems and Machine Learning. Currently, I am learning MicroPython programming, C language, STM32 development, and Machine Vision.
 
-I owe a great deal to my friends [CloverGit](https://github.com/CloverGit) and [huaidang123](https://github.com/huaidang123) for their selfless support and guidance throughout my learning journey. In the future, I am eager to delve into Linux .
+I owe a great deal to my friends [CloverGit](https://github.com/CloverGit) and [kaouduo](https://github.com/kaouduo) for their selfless support and guidance throughout my learning journey. In the future, I am eager to delve into Linux .
 
 - 📫Feel free to reach me at my email: 2284594699@qq.com
 
