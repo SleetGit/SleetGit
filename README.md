@@ -1,6 +1,6 @@
 ### Hi there👋
 
-I’m NoseAlien.
+I’m SleetGit.
 
 I have a keen interest in Embedded Systems and Machine Learning. Currently, I am learning MicroPython programming, C language, STM32 development, and Machine Vision.
 
@@ -19,4 +19,4 @@ I owe a great deal to my friends [CloverGit](https://github.com/CloverGit) and [
 [![JLCPCB](https://img.shields.io/badge/-JLCPCB-1777FF?style=flat-square&logoColor=white)](https://jlcpcb.com/)
 
 ### 📈 GitHub 统计  
-[![Top Langs](https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Nose-Alien&layout=compact)](https://github.com/Nose-Alien)
+[![Top Langs](https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=SleetGit&layout=compact)](https://github.com/SleetGit)
